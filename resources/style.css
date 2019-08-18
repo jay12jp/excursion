@@ -1,0 +1,35 @@
+* {
+  background-color: black;
+  text-align: center;
+}
+
+h1,h2,.mainpage-travelguide {
+  font-family: verdana;
+}
+
+h1 {
+  font-weight: normal;
+  font-size: 50px;
+  color: white;
+}
+
+.mainpage-comingsoon a {
+  color: aquamarine;
+  font-size: 16px;
+}
+
+h2 {
+  font-weight: 300;
+  font-size: 42px;
+  color: white;
+}
+
+.mainpage-travelguide p {
+  font-size: 21px;
+  color: gray;
+}
+
+.mainpage-footer p {
+  text-align: right;
+  color: gray;
+}
